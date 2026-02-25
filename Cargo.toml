@@ -2,6 +2,8 @@
 name = "riversnap"
 version = "0.0.1"
 edition = "2024"
+description = "Snap windows to screen halves in River — like Windows Snap, but for a tiling Wayland compositor"
+license = "MIT"
 
 [dependencies]
 river-layout-toolkit = "0.1.7"
